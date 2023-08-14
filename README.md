@@ -8,6 +8,7 @@ Software design patterns
 | StrategyPattern | [StrategyPattern.cs](https://github.com/JeroenBL/CSharpExamples/blob/main/DesignPatterns/StrategyPattern.cs) | [StrategyPatternNativePowerShell.ps1](https://github.com/JeroenBL/PowerShellExamples/blob/main/DesignPatterns/StrategyPatternNativePowerShell.ps1)
 | ObserverPattern | [ObserverPattern.cs](https://github.com/JeroenBL/CSharpExamples/blob/main/DesignPatterns/ObserverPattern.cs) | [ObserverPatternNativePowerShell.ps1](https://github.com/JeroenBL/PowerShellExamples/blob/main/DesignPatterns/ObserverPatternNativePowerShell.ps1)
 | ProxyPattern | [ProxyPattern.cs](https://github.com/JeroenBL/CSharpExamples/blob/main/DesignPatterns/ProxyPattern.cs) |
+| DecoratorPattern | [DecoratorPattern.cs](https://github.com/JeroenBL/CSharpExamples/blob/main/DesignPatterns/DecoratorPattern.cs) |
 
 ### Resources
 
